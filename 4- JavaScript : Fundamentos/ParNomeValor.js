@@ -20,4 +20,3 @@ const cliente = {
 console.log(saudacao);
 console.log(exec());
 console.log(cliente);
-console.log(cliente, endereco);
